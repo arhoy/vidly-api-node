@@ -13,11 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.3",
-    "config": "^1.29.4",
+    "config": "^1.31.0",
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "express-async-errors": "^2.1.0",
     "fawn": "^2.1.5",
+    "heroku": "^7.18.10",
     "joi": "^13.4.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.1.1",
