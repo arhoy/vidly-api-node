@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://localhost/vidly",
+  "db": "mongodb://vidlyuser:abc123@ds058369.mlab.com:58369/vidly_2020",
   "port": "3900",
   "requiresAuth": true
 }
